@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tsguru/static/css/main.b100e6da.chunk.css",
+    "main.js": "/tsguru/static/js/main.d36a93f5.chunk.js",
+    "main.js.map": "/tsguru/static/js/main.d36a93f5.chunk.js.map",
+    "runtime-main.js": "/tsguru/static/js/runtime-main.e65fb337.js",
+    "runtime-main.js.map": "/tsguru/static/js/runtime-main.e65fb337.js.map",
+    "static/js/2.69b10efc.chunk.js": "/tsguru/static/js/2.69b10efc.chunk.js",
+    "static/js/2.69b10efc.chunk.js.map": "/tsguru/static/js/2.69b10efc.chunk.js.map",
+    "index.html": "/tsguru/index.html",
+    "precache-manifest.4fe9a7b57ef005d361d1131ca6cf41dc.js": "/tsguru/precache-manifest.4fe9a7b57ef005d361d1131ca6cf41dc.js",
+    "service-worker.js": "/tsguru/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/tsguru/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/tsguru/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e65fb337.js",
+    "static/js/2.69b10efc.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.d36a93f5.chunk.js"
+  ]
+}
